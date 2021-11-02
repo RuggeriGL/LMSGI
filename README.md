@@ -1,2 +1,2 @@
 # LMSGI
-Primer repositorio de ejemplo.
+Mi-primer-repo
